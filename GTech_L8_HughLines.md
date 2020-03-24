@@ -13,10 +13,8 @@
   maxLineGap – Maximum allowed gap between points on the same line to link them.
 ```
   
-### Python code
+**Python program to illustrate HoughLine: method for line detection**
 ```
-# Python program to illustrate HoughLine 
-# method for line detection 
 import cv2 
 import numpy as np 
   
