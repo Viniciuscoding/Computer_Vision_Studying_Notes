@@ -34,8 +34,7 @@ for r,theta in lines[0]:
       
     x0 = a*r                  # x0 stores the value rcos(theta)
     y0 = b*r                  # y0 stores the value rsin(theta) 
-
-      
+  
     x1 = int(x0 + 1000*(-b))  # x1 stores the rounded off value of (rcos(theta)-1000sin(theta)) 
     y1 = int(y0 + 1000*(a))   # y1 stores the rounded off value of (rsin(theta)+1000cos(theta)) 
 
