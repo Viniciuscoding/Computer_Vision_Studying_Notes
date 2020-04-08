@@ -36,3 +36,31 @@ TERMS: FT = Fourier Transform and IFT = Inverse Fourier Transform
 e.x: An airplane propeler spinning forward but when we look it is spinning backwards. This is because the high frquency and low frequency can not be distinguished.
 ```
 
+**DEF:** ``` Sampling is the multiplication of a signal by a comb.```
+
+**DEF:** ``` Image sub-sampling is throwing away rows and columns to create a 1/2 size picture.```
+```
+NOTE: AS the image shrinks aliasing (image definition worsening) starts happening. In other to reduce alising Gaussian filtering helps.
+By using Gaussian (lowpass) pre-filtering image aliasing is reduced.
+```
+
+**IMPORTANT - DEF:** ``` The higher the frequency the less sensity human visual system is. by Campbell-Robson```
+
+**IMPORTANT Note** JPEG uses Block-Based Discrete Cosine Transform (DCT) on 8x8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
