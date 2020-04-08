@@ -1,11 +1,11 @@
 # Lesson 11 - Fourier Transform
 
-**DEF** ```Natural Images have similar power spectrum, so what really maters to reconstruct the image is the phase.```
+**DEF:** ```Natural Images have similar power spectrum, so what really maters to reconstruct the image is the phase.```
 
 ### Ringing
 
 
-**DEF**
+**DEF:** ```Convolution in spacial domain is the multiplication in frequency domain and vice-verse.```
 ``` Convolution in spacial domain is the multiplication in frequency domain and vice-verse.
 NOTE: * = convolution and x = multiplication
          Spacial Domain         Frequency Domain
