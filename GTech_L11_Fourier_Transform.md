@@ -5,5 +5,11 @@
 ### Ringing
 
 
-**DEF**``` Convolution in spacial domain is the multiplication in frequency domain ```
+**DEF**
+``` Convolution in spacial domain is the multiplication in frequency domain and vice-verse.
+NOTE: * = convolution and x = multiplication
+         Spacial Domain         Frequency Domain
+           g = f * h               G = F x H
+           g = f x h               G = F * H
+```
 
