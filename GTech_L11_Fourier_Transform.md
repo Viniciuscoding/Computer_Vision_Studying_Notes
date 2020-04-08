@@ -30,3 +30,9 @@ TERMS: FT = Fourier Transform and IFT = Inverse Fourier Transform
 **DEF:** ``` The Fourier Transform of a Gaussian is a Gaussian. ```
          ``` The Fourier Transofrm of an inpulse train is an inpulse train. As they get bigger in space they get close in frequency.```
 
+
+# Aliasing - Signals travelling in desguise as other signals (frequencies).
+```
+e.x: An airplane propeler spinning forward but when we look it is spinning backwards. This is because the high frquency and low frequency can not be distinguished.
+```
+
