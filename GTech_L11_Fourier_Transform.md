@@ -28,6 +28,5 @@ TERMS: FT = Fourier Transform and IFT = Inverse Fourier Transform
 **DEF:** ```Sall Gaussian in space have a big Gaussian in frequency and vice-verse.```
 
 **DEF:** ``` The Fourier Transform of a Gaussian is a Gaussian. ```
-
-
+         ``` The Fourier Transofrm of an inpulse train is an inpulse train.```
 
