@@ -12,6 +12,7 @@ PAG 17
 PAG 25
 
 # Major Vision and Graphics Conferences
+'''
 1. CVPR - Conference on Computer Vision and Pattern Recognition
 2. ECCV - European Conference on Computer Vision
 3. ICCV - International Conference on Computer Vision
@@ -22,7 +23,7 @@ PAG 25
 8. VISAPP - International Conference on Computer Vision Theory and Applications
 8. GRAPP - International Conference on Computer Graphics Theory and Applications
 9. IVAPP - International Conference on Information Visualization Theory and Applications
-
+'''
 
 
 
